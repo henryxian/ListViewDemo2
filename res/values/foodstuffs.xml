@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="foodstuffs">
+        <item>apple</item>
+        <item>ban</item>
+        <item>cherry</item>
+        <item>hot dog</item>
+        <item>eggplant</item>
+        <item>fried rice</item>
+        <item>golden apple</item>
+        <item>hot potato</item>
+        <item>ice cream</item>
+        <item>java bean</item>
+        <item>killed stuff</item>
+        <item>lima bean</item>
+        <item>muscatel</item>
+        <item>steak</item>
+        <item>whiskey</item>
+    </string-array>
+</resources>
